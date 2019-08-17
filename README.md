@@ -9,3 +9,6 @@ creds.txt
 `	client_secret`
 `	api_key`
 `	api_secret`
+
+# Usage of post-image.py
+Note - *When entering the image  to uplaod make sure you enter the whole path unless the image is in the same directory as the script being run.*
